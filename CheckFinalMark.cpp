@@ -1,4 +1,8 @@
-//Abraham García - checkFinalMark
+//Abraham García - checkFinalMark - Added clean code
+
+/*In this program, we are goint to enter 10 numbers, and the program itself
+will show us how many increments and decrements there are between that
+numbers*/
 
 #include <iostream>
 

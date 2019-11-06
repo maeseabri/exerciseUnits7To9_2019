@@ -1,4 +1,7 @@
-//Abraham García - TextWithoutA
+//Abraham García - TextWithoutA - Added clean code
+
+/*In this program, we can type any word or phrase, and the program
+won't stop until we type a word/phrase without the lleter 'a'/'A'*/
 
 using System;
 
